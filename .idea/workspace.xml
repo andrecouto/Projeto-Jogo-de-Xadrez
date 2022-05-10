@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1103a33-9e33-47c4-82db-575d4aac06a1" name="Changes" comment="Check logic.">
+    <list default="true" id="d1103a33-9e33-47c4-82db-575d4aac06a1" name="Changes" comment="Checkmate logic.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projeto/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto/application/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projeto/application/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto/application/UI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projeto/chess/ChessMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto/chess/ChessMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652120008878</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Checkmate logic.">
+      <created>1652222884826</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652222884826</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +221,7 @@
     <MESSAGE value="Switching player each turn" />
     <MESSAGE value="Handling captured pieces." />
     <MESSAGE value="Check logic." />
-    <option name="LAST_COMMIT_MESSAGE" value="Check logic." />
+    <MESSAGE value="Checkmate logic." />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkmate logic." />
   </component>
 </project>
