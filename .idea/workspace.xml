@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1103a33-9e33-47c4-82db-575d4aac06a1" name="Changes" comment="Special move - Castling.">
+    <list default="true" id="d1103a33-9e33-47c4-82db-575d4aac06a1" name="Changes" comment="Special move - en passant.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projeto/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projeto/chess/ChessMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto/chess/ChessMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652232217165</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Special move - en passant.">
+      <created>1652234004251</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652234004251</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +279,7 @@
     <MESSAGE value="Knight." />
     <MESSAGE value="Queen." />
     <MESSAGE value="Special move - Castling." />
-    <option name="LAST_COMMIT_MESSAGE" value="Special move - Castling." />
+    <MESSAGE value="Special move - en passant." />
+    <option name="LAST_COMMIT_MESSAGE" value="Special move - en passant." />
   </component>
 </project>
