@@ -10,8 +10,8 @@ Para jogar o jogo:
 - Após isso, digite o comando: 'java Program';
 - Para interromper o programa, aperte ctrl + C.
 
-O primeiro jogador é o que controla as peças brancas. Em seguida, o jogador que controla as peças amarelas faz o movimento.
-Para executar um movimento, digite a letra e o número correspondentes a coordenada da peça que deseja mover. Passando a coordenada correta, serão mostradas as possíveis coordanadas de movimento da peça na cor azul. Digite a coordenada destino da peça. COm isso, o movimento é finalizado e será a vez de jogar do oponente.
+O primeiro jogador é o que controla as peças brancas. Em seguida, o jogador que controla as peças amarelas faz o próximo movimento.
+Para executar um movimento, digite a letra e o número correspondentes a coordenada da peça que deseja mover. Passando a coordenada correta, serão mostradas as possíveis coordanadas de movimento da peça na cor azul. Digite a coordenada destino da peça. Com isso, o movimento é finalizado e será a vez de jogar do oponente.
 
 Bom jogo.
 
